@@ -1,0 +1,7 @@
+orderid,customer_name,age,gender,sales_amount,region
+1001,John Doe,25.0,Male,500.0,East
+1002,Mary Ann,28.6,Female,700.0,West
+1003,John Doe,25.0,Male,500.0,East
+1004,Peter Kamau,30.0,Male,630.0,North
+1005,Jane Wanjiku,28.0,Female,650.0,Unknown
+1006,Unknown,35.0,Male,800.0,South

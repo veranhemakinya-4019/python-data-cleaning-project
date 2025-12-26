@@ -1,0 +1,7 @@
+OrderID,Customer Name,Age,Gender,Sales Amount,Region
+1001,John Doe,25,Male,500,East
+1002,Mary Ann,,Female,700,West
+1003,John Doe,25,Male,500,East
+1004,Peter Kamau,30,Male,,North
+1005,Jane Wanjiku,28,Female,650,
+1006,,35,Male,800,South
